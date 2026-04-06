@@ -20,4 +20,4 @@ checksums           rmd160  249f4ed62a7a8636a8c3bd0376ad38b8d37452f0 \
                     size    39211
 
 # Upstream currently rejects the cmake PortGroup's default "MacPorts" build type.
-cmake.build_type    RelWithDebInfo
+cmake.build_type    Release
